@@ -1,0 +1,13 @@
+Feature: User can sign up
+
+Description:  
+The system should allow a new user to create an account by signing up.
+
+Acceptance Criteria:  
+- User can enter email, username, and password.  
+- System validates that all required fields are filled.  
+- System checks that email is in valid format.  
+- System ensures password meets security requirements (e.g., minimum length).  
+- On success, user account is created and stored in the system.  
+- User is redirected to the login page after successful sign up.  
+- If fields are invalid, error messages are displayed.
