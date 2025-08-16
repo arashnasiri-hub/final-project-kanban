@@ -1,0 +1,7 @@
+Feature: User can log out
+Description: The system should allow a logged-in user to log out securely.
+Acceptance Criteria:
+- User clicks the "Log out" button.
+- User session is terminated.
+- User is redirected to the login page.
+- User cannot access restricted pages without logging in again.
